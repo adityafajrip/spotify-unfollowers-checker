@@ -233,7 +233,7 @@ async function runPhase(state: any) {
         userName: state.userName,
         userImg: state.userImg,
         userId: state.userId,
-        error: "No following users found. Private account or profile page is empty.",
+        error: "No following users found. Private account or profile page is empty. Make sure you're logged in at open.spotify.com",
       });
       window.location.href = base;
       return;
