@@ -48,5 +48,4 @@ temp/
 *.tmp
 
 # Docs (not needed for store submission)
-PRIVACY.md
 STORE_LISTING.md
