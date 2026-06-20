@@ -77,7 +77,7 @@ Any changes to this privacy policy will be updated in the Extension's source cod
 ## Contact
 
 For questions about this privacy policy, please contact:
-- GitHub: https://github.com/anomalyco
+- GitHub: https://github.com/adityafajrip/spotify-unfollowers-checker
 
 ## Open Source
 
